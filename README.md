@@ -41,7 +41,7 @@ https://docs.python.org/3/library/venv.html
 ![App Screenshot](https://github.com/AbdurRahmanSh/Restaurant_rating/blob/main/rating.gif)
 
   
-## 🔗 Links
+## 🔗 Heruko Links
 
 [![Heroku](https://img.shields.io/badge/Heroku-flightprice--prediction-yellowgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flightpriceapp01.herokuapp.com/)
 
