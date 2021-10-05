@@ -42,5 +42,5 @@ https://docs.python.org/3/library/venv.html
 
   
 ## 🔗 Links
-[![Heroku](https://img.shields.io/badge/Heroku-Flight-price-predict-green?style=for-the-badge&logo=ko-fi&logoColor=white)](https://car-price-001.herokuapp.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-Flight-price-predict-yellowgreen?style=for-the-badge&logo=ko-fi&logoColor=white)](https://flightpriceapp01.herokuapp.com/)
 
